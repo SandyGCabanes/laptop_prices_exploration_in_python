@@ -1,4 +1,4 @@
-# laptop_prices_exploration
+# laptop_prices_exploration_in_python
 
 ## A python project using kaggle dataset on laptop prices. 
 
